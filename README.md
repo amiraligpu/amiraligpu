@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amiraligpu
 - 👀 I’m interested in AI, apps, etc.
-- 🌱 I’m currently learning Tkinter Python
+- 🌱 I’m currently learning Network and Tkinter Python
 - 📫 You can reach me with my [linkedin](https://www.linkedin.com/in/amirali-dashti-238649239)
 
 <!---
